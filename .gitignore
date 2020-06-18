@@ -1,6 +1,7 @@
 out/
 build/
-dunit/
+dunit
+target/
 tempora/
 build-eclipse/
 

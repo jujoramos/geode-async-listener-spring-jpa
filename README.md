@@ -25,7 +25,8 @@ environment variable can be set as below:
 |  Windows | ``set JAVA_HOME="C:\Program Files\Java\jdk1.8.0_121"`` |
 
 Clone the current repository in your local environment and, within the directory containing the 
-source code, run gradle build:
+source code, run `gradle build` or `mvn package`:
 ```
+$ ./mvnw package
 $ ./gradlew build
 ```
